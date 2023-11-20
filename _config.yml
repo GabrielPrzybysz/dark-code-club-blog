@@ -1,7 +1,7 @@
 # Site settings
 title: "Dark Code Club"
 bye_message: "F u, I won't do what you tell me. Thx!"
-baseurl: ""
+baseurl: "/"
 url: "darkcode.club"
 disqus: 
 
