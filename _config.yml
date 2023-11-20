@@ -1,0 +1,20 @@
+# Site settings
+title: "Dark Code Club"
+bye_message: "F u, I won't do what you tell me. Thx!"
+baseurl: "/"
+url: "darkcode.club"
+disqus: 
+
+# Header settings
+nick: "Dark Code Club"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code:
+    server: "github.com"
+    nick: "Dark Code Club"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
